@@ -46,7 +46,7 @@ Pour mettre en place ce tableau de bord sur votre machine, suivez les étapes su
      ```
 
 ## Auteur
-Ce projet a été développé par [BEZARA Florent](lien_vers_profil_github).
+Ce projet a été développé par [BEZARA Florent](https://github.com/GasyCoder).
 
 ## Licence
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
